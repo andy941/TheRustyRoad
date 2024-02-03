@@ -1,5 +1,4 @@
 use rand::Rng;
-//use core::num;
 use std::io;
 
 fn main() {
