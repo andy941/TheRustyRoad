@@ -1,6 +1,5 @@
-workspace = { members = ["04_ownership/01_intro"] }
 [package]
-name = "data_types"
+name = "references"
 version = "0.1.0"
 edition = "2021"
 
