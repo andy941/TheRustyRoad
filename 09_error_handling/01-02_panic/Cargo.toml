@@ -1,0 +1,9 @@
+workspace = { members = ["09_error_handling/03_when_to_panic"] }
+[package]
+name = "panic"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
